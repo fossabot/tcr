@@ -1,6 +1,7 @@
 # Token-Curated Registry
 
 [ ![Codeship Status for skmgoldin/tcr](https://app.codeship.com/projects/b140cce0-ac77-0135-0738-52e8b96e2dec/status?branch=master)](https://app.codeship.com/projects/257003)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fccbndh%2Ftcr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fccbndh%2Ftcr?ref=badge_shield)
 
 A hash-keyed [token-curated registry (TCR)](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7).
 
@@ -31,3 +32,7 @@ You can use [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) to gene
 ## Packages
 The repo consumes several EPM packages. `dll` and `attrstore` are libraries used in PLCRVoting's doubly-linked list abstraction. `tokens` provides an ERC20-comaptible token implementation. All packages are installed automatically when running `npm install`.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fccbndh%2Ftcr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fccbndh%2Ftcr?ref=badge_large)
